@@ -1,0 +1,3 @@
+Backend: 65
+Synchronization: 6
+Templates: 11
